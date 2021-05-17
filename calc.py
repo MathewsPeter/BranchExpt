@@ -1,3 +1,4 @@
 from add import add
 
-print(add(1,2))
+a = add(1,2)
+print(a)
