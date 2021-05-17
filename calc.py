@@ -1,4 +1,3 @@
-def add(a,b):
-    return (a+b)
+from add import add
 
 print(add(1,2))
